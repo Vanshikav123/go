@@ -1,0 +1,18 @@
+golang workspace contains 
+
+1. pkg  containes all the dependencies and packages needed
+2. bin  containes the binaries of the application
+3. src  containes the application
+
+also have several commands performing different functionalities
+
+Keywords:
+1. interface used as polymorphism which accepts different types of data types
+2. select  when go routine wait on multiple communication operation then select it when one of its cases can run
+3.defer   to delay the execution of the function or a statement until the nearby function returns   
+4.chan     used to declare channels
+5.fallthrough  when you want to run two consecutive switch cases
+
+
+
+
